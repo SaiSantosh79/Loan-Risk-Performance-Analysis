@@ -101,3 +101,4 @@ This project demonstrates how data-driven insights can:
 
 ## 🔗 Connect
 Feel free to connect with me on LinkedIn for collaboration or opportunities!
+https://www.linkedin.com/in/naga-venkata-sathya-sai-santosh-manda-472383227/
